@@ -1,4 +1,1 @@
-# BASE
-$base coin için yaptım 11072026
-# installationm
- 
+for i in {1..98}; do git commit --allow-empty -m "Commit $i"; done
